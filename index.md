@@ -3,12 +3,12 @@
 <img src="https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg" align="right" height="160" width="125">
 
 Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 06/2019.
-After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
+From 08/2019 to 08/2021, he was a research fellow at National University of Singapore working with Prof. Jiashi Feng.
+Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China.
   
 Research Interests
 
-`Semantic Segmentation` `Instance Segmentation` `Object Detection`
-`Architecture Design` `Neural Architecture Search`.    
+`Computer Vision` `Deep Learning`.    
   
   
 
@@ -33,6 +33,14 @@ Research Interests
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/1611.04849.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/DSS" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Vision permutator: A permutable mlp-like architecture for visual recognition</b></h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2106.12368.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/VisionPermutator" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
  
