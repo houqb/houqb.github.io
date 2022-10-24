@@ -1,6 +1,6 @@
 theme: minima  #jekyll-theme-cayman
 
-title: Qibin Hou, Research Fellow at NUS
+title: Qibin Hou, Associate Professor at School of Computer Science, Nankai University
 
 # User settings
 author: https://github.com/Andrew-Qibin
@@ -11,7 +11,7 @@ email: andrewhoux@gmail.com
 # user_title: Research Fellow
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  I am currently a research fellow at NUS working with Prof. Jiashi Feng.
+  I am currently an associate frofessor at School of Computer Science.
 
 
 show_excerpts: false
