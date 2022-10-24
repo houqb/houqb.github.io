@@ -1,5 +1,7 @@
 
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+  
 <img src="https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg" align="right" height="160" width="125">
 
 Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 06/2019.
