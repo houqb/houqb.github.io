@@ -13,6 +13,8 @@ Research Interests
 
 ## Recent News
 
++ Top 2% of Scientists on Stanford List
+
 + Four papers accepted by T-PAMI2022
 + One paper accepted by NeurIPS2022
 + Two papers accepted by CVPR2022
