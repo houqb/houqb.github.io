@@ -32,18 +32,18 @@ Research Interests
 
 #### Master Students
 
-`Yupeng Zhou` 
-`Bowen Yin (Co-supervise with Prof. Ming-Ming Cheng)`
-`Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
-`Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
-`Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
++ `Yupeng Zhou` 
++ `Bowen Yin (Co-supervise with Prof. Ming-Ming Cheng)`
++ `Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
++ `Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
++ `Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
 
 #### Undergraduate Students
 
-`Shichen Zhang`
-`Quansheng Zeng`
-`Xinbin Yuan`
-`Nuoming Liu`
++ `Shichen Zhang`
++ `Quansheng Zeng`
++ `Xinbin Yuan`
++ `Nuoming Liu`
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
