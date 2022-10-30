@@ -14,15 +14,14 @@ Research Interests
 ## Recent News
 
 + Top 2% of Scientists on Stanford List
-
-+ Four papers accepted by T-PAMI2022
-+ One paper accepted by NeurIPS2022
-+ Two papers accepted by CVPR2022
-+ One paper accepted by NeurIPS2021
-+ One paper accepted by ICCV2021
-+ One paper accepted by CVPR2021
-+ One paper accepted by ICLR2020
-+ One paper accepted by ICCV2019
++ Four papers accepted by T-PAMI'2022
++ One paper accepted by NeurIPS'2022
++ Two papers accepted by CVPR'2022
++ One paper accepted by NeurIPS'2021
++ One paper accepted by ICCV'2021
++ One paper accepted by CVPR'2021
++ One paper accepted by ICLR'2020
++ One paper accepted by ICCV'2019
 
 ## Students
 
