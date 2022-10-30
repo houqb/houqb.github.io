@@ -26,9 +26,9 @@ Research Interests
 
 #### Ph.D. Students
 
-`Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)`
-`Hao Shao` 
-`Xuying Zhang (Co-supervise with Ming-Ming Cheng)`
++ `Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)`
++ `Hao Shao` 
++ `Xuying Zhang (Co-supervise with Ming-Ming Cheng)`
 
 #### Master Students
 
