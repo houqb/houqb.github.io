@@ -78,7 +78,7 @@ Research Interests
 
 <blockquote style="color: black;  border-width: 12px; border-color: orange">   
   <h4><b>Localization Distillation for Dense Object Detection</b></h4>   
-  <sub><p style="line-height:15px"> Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, <b>Qibin Hou</b>, Ming-Ming Cheng</p> 
+  <sub><p style="line-height:15px"> Zhaohui Zheng*, Rongguang Ye*, Ping Wang, Dongwei Ren, Wangmeng Zuo, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>   
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Localization_Distillation_for_Dense_Object_Detection_CVPR_2022_paper.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD">[Code]</a></p>   
   </sub>
@@ -98,22 +98,6 @@ CoordAttention">[Code]</a></p>
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Li Zhang, Ming-Ming Cheng, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2003.13328.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SPNet">[Code]</a></p>   
-  </sub>
-</blockquote>
-  
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
-  <h4><b>Improving Convolutional Networks with Self-Calibrated Convolutions</b></h4>   
-  <sub><p style="line-height:15px"> Jiang-Jiang Liu*, <b>Qibin Hou*</b>, Ming-Ming Cheng, Changhu Wang, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
-  <p style="line-height:15px"> <a href="http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf">[Arxiv]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
-  <h4><b>Neural Epitome Search for Architecture-Agnostic Network Compression</b></h4>   
-  <sub><p style="line-height:15px"> Daquan Hou, Xiaojie Jin, <b>Qibin Hou</b>, Kaixin Wang, Jianchao Yang, Jiashi Feng </p> 
-  <p style="line-height:15px">The International Conference on Learning Representations (ICLR), 2020 </p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/1907.05642.pdf">[Arxiv]</a></p>   
   </sub>
 </blockquote>
 
