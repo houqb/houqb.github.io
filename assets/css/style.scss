@@ -1,35 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.inner {
-  max-width: 75%;
-}
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-
-@media screen and (min-width: 1300px) {
-  /* Dashboard */
-  div#site-container { width: 60% !important;}
-  div#dashboard div.news { width: 65% !important;}
-  div.body { margin-left: 5px !important;}
-  div.columns.sidebar  { width: 25% !important; max-width: 207px !important;}
-  div.columns.main { width: 77% !important; }
-
-  /* Repo */
-  div.frames { width: 100% !important; }
-  div.frame.frame-center { width: 100% !important; }
-  div.container.hentry { width: 85% !important;}
-  div.column.sidebar { width: 15% !important; max-width: 220px !important;}
-  div.column.main { width: 83% !important; }
-  div#repo-settings {width: 75% !important; margin: 0 auto !important; min-width: 920px !important; }
-  div#repo-settings div#options_bucket {width: 75% !important;}
-  div.discussion-timeline { width: 75% !important; margin: 0 auto !important;}
-
-  /* Profile */
-  div.columns.profilecols.js-repo-filter div.first { width:55% !important;}
-  div.columns.profilecols.js-repo-filter div.last { width: 40% !important;}
+.navigation {
+    background-color: black;
+    height: 40px;
+    @media screen and (min-width: 1000px) {
+        height: 50px;
+    }
 }
