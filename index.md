@@ -1,5 +1,5 @@
  
-<img src="https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg" align="right" height="160" width="125">
+<img src="https://github.com/Andrew-Qibin/homepage/raw/master/portrait.png" align="right" height="160" width="125">
 
 Qibin Hou received his Ph.D. degree from Nankai University in 06/2019.
 From 08/2019 to 08/2021, he was a research fellow at National University of Singapore.
