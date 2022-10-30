@@ -1,33 +1,69 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-  
+ 
 <img src="https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg" align="right" height="160" width="125">
 
-Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 06/2019.
-From 08/2019 to 08/2021, he was a research fellow at National University of Singapore working with Prof. Jiashi Feng.
+Qibin Hou received his Ph.D. degree from Nankai University in 06/2019.
+From 08/2019 to 08/2021, he was a research fellow at National University of Singapore.
 Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China.
   
 Research Interests
 
-`Computer Vision` `Deep Learning`.    
+`Computer Vision` `Deep Learning`
   
   
 
-## News
+## Recent News
 
-+ Two paper accepted by CVPR2020
++ Four papers accepted by T-PAMI2022
++ One paper accepted by NeurIPS2022
++ Two papers accepted by CVPR2022
++ One paper accepted by NeurIPS2021
++ One paper accepted by ICCV2021
++ One paper accepted by CVPR2021
 + One paper accepted by ICLR2020
 + One paper accepted by ICCV2019
-+ Two papers accepted by CVPR2019
 
-## Activities
+## Students
 
+#### Ph.D. Students
 
+`Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)`
+`Hao Shao` 
+`Xuying Zhang (Co-supervise with Ming-Ming Cheng)`
 
-## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+#### Master Students
 
-#### "*" means authors contributed equally
+`Yupeng Zhou` 
+`Bowen Yin (Co-supervise with Prof. Ming-Ming Cheng)`
+`Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
+`Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
+`Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
+
+#### Undergraduate Students
+
+`Shichen Zhang`
+`Quansheng Zeng`
+`Xinbin Yuan`
+`Nuoming Liu`
+
+## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+#### "*" means authors contributed equally and "#" means corresponding author.
+
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Vision permutator: A permutable mlp-like architecture for visual recognition</b></h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2106.12368.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/VisionPermutator" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Token Selection is a Simple Booster for Vision Transformers</b></h4>   
+  <sub><p style="line-height:15px"> Daquan Zhou, <b>Qibin Hou</b>, Linjie Yang, Xiaojie Jin, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2103.11886.pdf">[Arxiv]</a> <a href="https://github.com/zhoudaquan/dvit_repo" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 12px; border-color: orange">   
   <h4><b>Deeply Supervised Salient Object Detection with Short Connections</b></h4>   
@@ -38,14 +74,25 @@ Research Interests
   </sub>
 </blockquote>
 
+## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
 <blockquote style="color: black;  border-width: 12px; border-color: orange">   
-  <h4><b>Vision permutator: A permutable mlp-like architecture for visual recognition</b></h4>   
-  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2106.12368.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/VisionPermutator" class="redlink">[Code]</a></p>   
+  <h4><b>Localization Distillation for Dense Object Detection</b></h4>   
+  <sub><p style="line-height:15px"> Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, <b>Qibin Hou</b>, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>   
+  <p style="line-height:15px"> <a href="[https://arxiv.org/pdf/2003.13328.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Localization_Distillation_for_Dense_Object_Detection_CVPR_2022_paper.pdf)">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD">[Code]</a></p>   
   </sub>
 </blockquote>
- 
+
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Coordinate attention for efficient mobile network design</b></h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Daquan Zhou, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</p>   
+  <p style="line-height:15px"> <a href="[https://arxiv.org/pdf/2003.13328.pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/
+CoordAttention">[Code]</a></p>   
+  </sub>
+</blockquote>
+
 <blockquote style="color: black;  border-width: 12px; border-color: orange">   
   <h4><b>Strip Pooling: Rethinking Spatial Pooling for Scene Parsing</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Li Zhang, Ming-Ming Cheng, Jiashi Feng</p> 
