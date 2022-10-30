@@ -50,7 +50,7 @@ Research Interests
 
 #### "*" means authors contributed equally and "#" means corresponding author.
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Vision permutator: A permutable mlp-like architecture for visual recognition</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
@@ -58,7 +58,7 @@ Research Interests
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Token Selection is a Simple Booster for Vision Transformers</b></h4>   
   <sub><p style="line-height:15px"> Daquan Zhou, <b>Qibin Hou</b>, Linjie Yang, Xiaojie Jin, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
@@ -66,7 +66,7 @@ Research Interests
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Deeply Supervised Salient Object Detection with Short Connections</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017</p> 
@@ -77,7 +77,7 @@ Research Interests
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Localization Distillation for Dense Object Detection</b></h4>   
   <sub><p style="line-height:15px"> Zhaohui Zheng*, Rongguang Ye*, Ping Wang, Dongwei Ren, Wangmeng Zuo, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>   
@@ -85,7 +85,7 @@ Research Interests
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Coordinate attention for efficient mobile network design</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Daquan Zhou, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</p>   
@@ -94,7 +94,7 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Strip Pooling: Rethinking Spatial Pooling for Scene Parsing</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Li Zhang, Ming-Ming Cheng, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
@@ -102,7 +102,7 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>A Simple Pooling-Based Design for Real-Time Salient Object Detection</b></h4>   
   <sub><p style="line-height:15px"> Jiang-Jiang Liu*, <b>Qibin Hou*</b>, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</p>   
@@ -110,7 +110,7 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4><b>Self-Earsing Networks for Integral Object Attention</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Peng-Tao Jiang, Yunchao Wei, Ming-Ming Cheng </p> 
   <p style="line-height:15px">Advances in Neural Information Processing Systems (NeurIPS), 2018</p>   
