@@ -80,7 +80,7 @@ Research Interests
   <h4><b>Localization Distillation for Dense Object Detection</b></h4>   
   <sub><p style="line-height:15px"> Zhaohui Zheng, Rongguang Ye, Ping Wang, Dongwei Ren, Wangmeng Zuo, <b>Qibin Hou</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>   
-  <p style="line-height:15px"> <a href="[https://arxiv.org/pdf/2003.13328.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Localization_Distillation_for_Dense_Object_Detection_CVPR_2022_paper.pdf)">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD">[Code]</a></p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Localization_Distillation_for_Dense_Object_Detection_CVPR_2022_paper.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD">[Code]</a></p>   
   </sub>
 </blockquote>
 
@@ -88,7 +88,7 @@ Research Interests
   <h4><b>Coordinate attention for efficient mobile network design</b></h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Daquan Zhou, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</p>   
-  <p style="line-height:15px"> <a href="[https://arxiv.org/pdf/2003.13328.pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/
 CoordAttention">[Code]</a></p>   
   </sub>
 </blockquote>
