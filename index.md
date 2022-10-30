@@ -7,9 +7,11 @@ Now, he is an associate professor at School of Computer Science, Nankai Universi
   
 Research Interests
 
-I am interested in `Computer Vision` `Deep Learning`.
+I am interested in `Computer Vision` `Deep Learning`
 
 Specific directions: `Semantic Segmentation` `Object Detection` `Image Classification` `Low-Level Vision`
+
+See my recent publications for more details.
   
   
 
