@@ -6,3 +6,7 @@
 .inner {
   max-width: 75%;
 }
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
