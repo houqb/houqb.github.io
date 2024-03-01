@@ -1,54 +1,54 @@
  
 <img src="https://github.com/Andrew-Qibin/homepage/raw/master/portrait.png" align="right" height="160" width="125">
 
-Qibin Hou received his Ph.D. degree from Nankai University in 06/2019.
-From 08/2019 to 08/2021, he was a research fellow at National University of Singapore.
-Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China.
+Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the supervision of Prof. Ming-Ming Cheng.
+From 08/2019 to 08/2021, I spent two wonderful years working with Prof. Jiashi Feng and Prof. Shuicheng Yan as a research fellow at National University of Singapore.
+Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China. I am also with Nankai International Advanced Research Institute (Shenzhen Futian).
   
-Research Interests
+#### Research Interests
 
 I am interested in `Computer Vision` `Deep Learning`
 
-Specific directions: `Semantic Segmentation` `Object Detection` `Image Classification` `Low-Level Vision`
+Specific directions: `Semantic Segmentation` `Object Detection` `Foundation Models`
 
 See my recent publications for more details.
-  
-  
+
+#### For perspective students
+
+If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[this]</a> already.
+
+#### Hobbies
+
+Sometimes I cook at home. If you think your cooking skills are better than mine, then show me.
 
 ## Recent News
 
++ Five papers accepted by CVPR'24
++ Two papers accepted by ICLR'24
++ One paper accepted by AAAI'24
++ Two papers accepted by ICCV'23
 + Top 2% of Scientists on Stanford List
-+ Four papers accepted by T-PAMI'2022
++ Five papers published in T-PAMI'2022
 + One paper accepted by NeurIPS'2022
 + Two papers accepted by CVPR'2022
-+ One paper accepted by NeurIPS'2021
-+ One paper accepted by ICCV'2021
-+ One paper accepted by CVPR'2021
-+ One paper accepted by ICLR'2020
-+ One paper accepted by ICCV'2019
 
 ## Students
 
 #### Ph.D. Students
 
 + `Zhaohui Zheng (Co-supervise with Ming-Ming Cheng)`
-+ `Hao Shao` 
++ `Jiabao Wang (Co-supervise with Ming-Ming Cheng)`
++ `Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
++ `Hao Shao`
++ `Bowen Yin` 
 + `Xuying Zhang (Co-supervise with Ming-Ming Cheng)`
 
 #### Master Students
 
 + `Yupeng Zhou` 
-+ `Bowen Yin (Co-supervise with Prof. Ming-Ming Cheng)`
-+ `Boyuan Sun (Co-supervise with Prof. Xiuli Shao)`
 + `Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng)`
 + `Yuming Chen (Co-supervise with Prof. Xiuli Shao)`
 
-#### Undergraduate Students
-
-+ `Shichen Zhang`
-+ `Quansheng Zeng`
-+ `Xinbin Yuan`
-+ `Nuoming Liu`
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
@@ -57,16 +57,24 @@ See my recent publications for more details.
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Vision permutator: A permutable mlp-like architecture for visual recognition</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Zihang Jiang, Li Yuan, Ming-Ming Cheng, Shuicheng Yan, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2106.12368.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/VisionPermutator" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Token Selection is a Simple Booster for Vision Transformers</h4>   
-  <sub><p style="line-height:15px"> Daquan Zhou, <b>Qibin Hou</b>, Linjie Yang, Xiaojie Jin, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2103.11886.pdf">[Arxiv]</a> <a href="https://github.com/zhoudaquan/dvit_repo" class="redlink">[Code]</a></p>   
+  <h4>Volo: Vision outlooker for visual recognition</h4>   
+  <sub><p style="line-height:15px"> Li Yuan*, <b>Qibin Hou</b>*, Zihang Jiang*, Jiashi Feng, Shuicheng Yan</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
+  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/9888055">[Arxiv]</a> <a href="https://github.com/sail-sg/volo" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Localization distillation for object detection</h4>   
+  <sub><p style="line-height:15px"> Zhaohui Zheng, Rongguang Ye, Qibin Hou<b>Qibin Hou</b>#, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2204.05957.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
@@ -122,4 +130,4 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
   
-  
+
