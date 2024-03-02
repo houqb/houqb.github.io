@@ -2,12 +2,12 @@
 <img src="https://github.com/Andrew-Qibin/homepage/raw/master/portrait.png" align="right" height="160" width="125">
 
 Qibin Hou received his Ph.D. degree from Nankai University in 06/2019 under the supervision of Prof. Ming-Ming Cheng.
-From 08/2019 to 08/2021, I spent two wonderful years working with Prof. Jiashi Feng and Prof. Shuicheng Yan as a research fellow at National University of Singapore.
+From 08/2019 to 08/2021, I spent two wonderful years working with Dr. Jiashi Feng and Dr. Shuicheng Yan as a research fellow at National University of Singapore.
 Now, he is an associate professor at School of Computer Science, Nankai University, Tianjin, China. I am also with Nankai International Advanced Research Institute (Shenzhen Futian).
-  
+
 #### Research Interests
 
-I am interested in `Computer Vision` `Deep Learning`
+My research covers a range of `Computer Vision` and `Deep Learning`. To be specific, my research concentrates on building AI models to help agents better see and understand the complex world. 
 
 Specific directions: `Semantic Segmentation` `Object Detection` `Foundation Models`
 
@@ -17,6 +17,8 @@ See my recent publications for more details.
 
 If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[this]</a> already.
 
+We have several projects each year from the industry to ensure the applications of our research.
+
 
 ## Recent News
 
@@ -25,7 +27,7 @@ If you are interested in the research topics in my group, welcome to drop an ema
 + One paper accepted by AAAI'24
 + Two papers accepted by ICCV'23
 + Top 2% of Scientists on Stanford List
-+ Five papers published in T-PAMI'2022
++ Five papers published in T-PAMI'2023
 + One paper accepted by NeurIPS'2022
 + Two papers accepted by CVPR'2022
 
