@@ -17,9 +17,6 @@ See my recent publications for more details.
 
 If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[this]</a> already.
 
-#### Hobbies
-
-Sometimes I cook at home. If you think your cooking skills are better than mine, then show me.
 
 ## Recent News
 
