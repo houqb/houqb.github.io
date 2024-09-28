@@ -59,6 +59,7 @@ If you are interested in the research topics in my group, welcome to drop an ema
 + [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng, 2022-)
 + [Bowen Yin](https://scholar.google.com/citations?user=xr_FRrEAAAAJ&hl=en&oi=sra) (2023-)
 + Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
++ Yusong Hu (2023-)
 + [Yunheng Li](https://scholar.google.com/citations?user=pqloKgIAAAAJ&hl=en&oi=ao) (Co-supervise with Ming-Ming Cheng, 2023-)
 + [Yuming Chen](https://scholar.google.com/citations?hl=en&user=EweNbRAAAAAJ) (Co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (2024-)
@@ -101,14 +102,6 @@ If you are interested in the research topics in my group, welcome to drop an ema
   <sub><p style="line-height:15px">Zhaohui Zheng, Yuming Chen, <b>Qibin Hou</b>#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/602113455" class="redlink">[知乎]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Contrastive masked autoencoders are stronger vision learners</h4>   
-  <sub><p style="line-height:15px"> Zhicheng Huang, Xiaojie Jin, Chengze Lu, <b>Qibin Hou</b>, Ming-Ming Cheng, Dongmei Fu, Xiaohui Shen, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2207.13532">[Arxiv]</a> <a href="https://github.com/ZhichengHuang/CMAE" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
