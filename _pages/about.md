@@ -199,6 +199,13 @@ title="GitHub">
   <h4>SRFormer: Permuted Self-Attention for Single Image Super-Resolution</h4>   
   <sub><p style="line-height:15px"> Yupeng Zhou, Zhen Li, Chun-Le Guo, Song Bai, Ming-Ming Cheng, <b>Qibin Hou#</b> </p> 
   <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2023</p>   
+  <iframe 
+src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=SRFormer&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf">[Arxiv]</a> <a href="https://github.com/HVision-NKU/SRFormer">[Code]</a></p>   
   </sub>
 </blockquote>
@@ -207,6 +214,13 @@ title="GitHub">
   <h4>Coordinate attention for efficient mobile network design</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Daquan Zhou, Jiashi Feng</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</p>   
+  <iframe 
+src="https://ghbtns.com/github-btn.html?user=houqb&repo=CoordAttention&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/
 CoordAttention">[Code]</a></p>   
   </sub>
