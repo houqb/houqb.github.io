@@ -75,7 +75,13 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 #### "*" means authors contributed equally and "#" means corresponding author.
 
-
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Yolo-ms: rethinking multi-scale representation learning for real-time object detection</h4>   
+  <sub><p style="line-height:15px"> Yuming Chen, Xinbin Yuan, Ruiqi Wu, Jiabao Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">Arxiv, 2023</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2308.05480">[Arxiv]</a> <a href="https://github.com/FishAndWasabi/YOLO-MS" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
