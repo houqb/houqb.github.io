@@ -38,8 +38,9 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 ## News
 
++ I will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
-+ Four papers accepted by TPAMI'2024
++ Five papers accepted by TPAMI'2024
 + I am among the list of Highly Cited Chinese Researchers of 2023
 + Six papers accepted by CVPR'24 and ECCV'24
 + Three papers accepted by ICLR'24 and ICML'24
@@ -83,9 +84,15 @@ If you are interested in the research topics in my group, welcome to drop an ema
   </sub>
 </blockquote>
 
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction</h4>   
+  <sub><p style="line-height:15px">Yunheng Li, Yuxuan Li, Quansheng Zeng, Wenhai Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">Arxiv, 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.06244">[Arxiv]</a> <a href="https://github.com/HVision-NKU/DenseVLM" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
+
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
-
-
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Conv2former: A simple transformer-style convnet for visual recognition</h4>   
@@ -100,14 +107,6 @@ If you are interested in the research topics in my group, welcome to drop an ema
   <sub><p style="line-height:15px">Bowen Yin*, Xuying Zhang*, Deng-Ping Fan, Shaohui Jiao, Ming-Ming Cheng, Luc Van Gool, <b>Qibin Hou</b>#</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2212.06570">[Arxiv]</a> <a href="https://github.com/HVision-NKU/CamoFormer" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Zone evaluation: Revealing spatial bias in object detection</h4>   
-  <sub><p style="line-height:15px">Zhaohui Zheng, Yuming Chen, <b>Qibin Hou</b>#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/602113455" class="redlink">[知乎]</a></p>   
   </sub>
 </blockquote>
 
@@ -166,14 +165,6 @@ title="GitHub">
   <sub><p style="line-height:15px"> Jiabao Wang*, Zhaojiang Liu*, Qiang Meng, Liujiang Yan, Ke Wang, Jie Yang, Wei Liu, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">Neural Information Processing Systems (NeurIPS), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2409.09350">[Arxiv]</a> <a href="https://github.com/jbwang1997/OPUS">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Towards Stable 3D Object Detection</h4>   
-  <sub><p style="line-height:15px"> Jiabao Wang*, Qiang Meng*, Guochao Liu, Liujiang Yan, Ke Wang, Ming-Ming Cheng, <b>Qibin Hou#</b></p> 
-  <p style="line-height:15px">European Conference on Computer Vision (ECCV), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2407.04305">[Arxiv]</a> <a href="https://jbwang1997.github.io/projects/stability_index/index.html">[Code]</a></p>   
   </sub>
 </blockquote>
 
@@ -240,13 +231,6 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>A Simple Pooling-Based Design for Real-Time Salient Object Detection</h4>   
-  <sub><p style="line-height:15px"> Jiang-Jiang Liu*, <b>Qibin Hou*</b>, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang</p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</p>   
-  <p style="line-height:15px"> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_A_Simple_Pooling-Based_Design_for_Real-Time_Salient_Object_Detection_CVPR_2019_paper.pdf">[Arxiv]</a> <a href="https://github.com/backseason/PoolNet">[Code]</a></p>   
-  </sub>
-</blockquote>
 
 <span class='anchor' id='-services'></span>
 
@@ -255,6 +239,7 @@ CoordAttention">[Code]</a></p>
 + VALSE 2022 Expo Chair
 + VALSE 2023 Expo Chair
 + Reviewers for TPAMI/TIP/CVPR/ICCV/NeurIPS/ICML/ICLR etc.
++ Area chair for ICCV'25
 
 <span class='anchor' id='-awards'></span>
 
