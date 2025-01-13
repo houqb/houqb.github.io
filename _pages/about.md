@@ -32,7 +32,7 @@ See my recent publications for more details.
 
 ## For prospective students
 
-If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[the enrollment information]</a> already.
+I am always looking for self-motivated Ph.D./master students working with me on the above research fields. If you are interested in the research topics in my group, welcome to drop an email. Note that before contacting me, you are supposed to have read <a href="https://mmcheng.net/recruit/" class="redlink">[the enrollment information]</a> already.
 
 <span class='anchor' id='-news'></span>
 
