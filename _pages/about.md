@@ -38,10 +38,11 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 ## News
 
-+ I will serve as an area chair for ICCV'2025
++ One paper accepted by TPAMI'2025
++ Will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
-+ I am among the list of Highly Cited Chinese Researchers of 2023
++ Among the list of Highly Cited Chinese Researchers of 2023
 + Six papers accepted by CVPR'24 and ECCV'24
 + Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
@@ -60,7 +61,7 @@ If you are interested in the research topics in my group, welcome to drop an ema
 + [Xuying Zhang](https://zhangxuying1004.github.io/) (Co-supervise with Ming-Ming Cheng, 2022-)
 + [Bowen Yin](https://scholar.google.com/citations?user=xr_FRrEAAAAJ&hl=en&oi=sra) (2023-)
 + Boyuan Sun (Co-supervise with Prof. Xiuli Shao, 2023-)
-+ Yusong Hu (2023-)
++ [Yusong Hu](https://scholar.google.com/citations?user=A8Go6k4AAAAJ&hl=en&oi=ao) (2023-)
 + [Yunheng Li](https://scholar.google.com/citations?user=pqloKgIAAAAJ&hl=en&oi=ao) (Co-supervise with Ming-Ming Cheng, 2023-)
 + [Yuming Chen](https://scholar.google.com/citations?hl=en&user=EweNbRAAAAAJ) (Co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (2024-)
@@ -69,6 +70,8 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 + Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng, 2022-)
 + Xinbin Yuan (2023-)
++ Yuhao Wan (2024-)
++ Guohong Mu (2024-)
  
 <span class='anchor' id='-pub'></span>
 
