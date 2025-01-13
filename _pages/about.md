@@ -68,7 +68,7 @@ If you are interested in the research topics in my group, welcome to drop an ema
 
 #### Master Students
 
-+ Yuqi Yang (Co-supervise with Prof. Ming-Ming Cheng, 2022-)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Co-supervise with Prof. Ming-Ming Cheng, 2022-)
 + Xinbin Yuan (2023-)
 + Yuhao Wan (2024-)
 + Guohong Mu (2024-)
