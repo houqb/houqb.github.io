@@ -38,6 +38,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Two papers accepted by ICLR'25
 + One paper accepted by TPAMI'2025
 + Will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
@@ -47,7 +48,6 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + Three papers accepted by ICLR'24 and ICML'24
 + Three papers accepted by ICCV'23 and CVPR'23
 + Top 2% of Scientists on Stanford List for multiple times
-+ Three papers published in TPAMI'2023
 
 <span class='anchor' id='-group'></span>
 
