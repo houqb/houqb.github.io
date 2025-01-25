@@ -79,7 +79,13 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 #### "*" means authors contributed equally and "#" means corresponding author.
 
-
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
+  <sub><p style="line-height:15px">Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, <b>Qibin Hou</b>#, Ming-Ming Cheng#</p> 
+  <p style="line-height:15px">Arxiv, 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2501.03775?">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Strip-R-CNN" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/17342348259">[Zhihu]</a> <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=strip-r-cnn-large-strip-convolution-for">[PaperWithCode]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction</h4>   
