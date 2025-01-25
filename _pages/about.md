@@ -39,7 +39,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 ## News
 
 + Two papers accepted by ICLR'25
-+ Two paper accepted by TPAMI'2025
++ Two papers accepted by TPAMI'2025
 + Will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
