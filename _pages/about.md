@@ -39,7 +39,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 ## News
 
 + Two papers accepted by ICLR'25
-+ One paper accepted by TPAMI'2025
++ Two paper accepted by TPAMI'2025
 + Will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
@@ -79,13 +79,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 #### "*" means authors contributed equally and "#" means corresponding author.
 
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Yolo-ms: rethinking multi-scale representation learning for real-time object detection</h4>   
-  <sub><p style="line-height:15px"> Yuming Chen, Xinbin Yuan, Ruiqi Wu, Jiabao Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">Arxiv, 2023</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2308.05480">[Arxiv]</a> <a href="https://github.com/FishAndWasabi/YOLO-MS" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
+
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction</h4>   
@@ -96,6 +90,21 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 </blockquote>
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Yolo-ms: rethinking multi-scale representation learning for real-time object detection</h4>   
+  <sub><p style="line-height:15px"> Yuming Chen, Xinbin Yuan, Ruiqi Wu, Jiabao Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</p>   
+  <iframe 
+src="https://ghbtns.com/github-btn.html?user=FishAndWasabi&repo=YOLO-MS&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2308.05480">[Arxiv]</a> <a href="https://github.com/FishAndWasabi/YOLO-MS" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Conv2former: A simple transformer-style convnet for visual recognition</h4>   
