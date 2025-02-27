@@ -38,6 +38,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Four papers accepted by CVPR'24
 + Two papers accepted by ICLR'25
 + Two papers accepted by TPAMI'2025
 + Will serve as an area chair for ICCV'2025
@@ -45,8 +46,6 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + Five papers accepted by TPAMI'2024
 + Among the list of Highly Cited Chinese Researchers of 2023
 + Six papers accepted by CVPR'24 and ECCV'24
-+ Three papers accepted by ICLR'24 and ICML'24
-+ Three papers accepted by ICCV'23 and CVPR'23
 + Top 2% of Scientists on Stanford List for multiple times
 
 <span class='anchor' id='-group'></span>
@@ -72,6 +71,12 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + Xinbin Yuan (2023-)
 + Yuhao Wan (2024-)
 + Guohong Mu (2024-)
+
+#### Undergraduate Students
+
++ Ziheng Ouyang (Sophomore)
++ Jiadong Hou (Sophomore)
++ Modi Jin (Sophomore)
  
 <span class='anchor' id='-pub'></span>
 
