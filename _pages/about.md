@@ -38,6 +38,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Among the list of Highly Cited Chinese Researchers of 2024
 + Four papers accepted by CVPR'25
 + Two papers accepted by ICLR'25
 + Two papers accepted by TPAMI'2025
