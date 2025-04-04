@@ -143,22 +143,6 @@ title="GitHub">
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Volo: Vision outlooker for visual recognition</h4>   
-  <sub><p style="line-height:15px"> Li Yuan*, <b>Qibin Hou</b>*, Zihang Jiang*, Jiashi Feng, Shuicheng Yan</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
-  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/9888055">[Arxiv]</a> <a href="https://github.com/sail-sg/volo" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Localization distillation for object detection</h4>   
-  <sub><p style="line-height:15px"> Zhaohui Zheng, Rongguang Ye, <b>Qibin Hou</b>#, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2204.05957.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Deeply Supervised Salient Object Detection with Short Connections</h4>   
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017</p> 
@@ -189,22 +173,6 @@ title="GitHub">
   <sub><p style="line-height:15px"> Jiabao Wang*, Zhaojiang Liu*, Qiang Meng, Liujiang Yan, Ke Wang, Jie Yang, Wei Liu, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">Neural Information Processing Systems (NeurIPS), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2409.09350">[Arxiv]</a> <a href="https://github.com/jbwang1997/OPUS">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation</h4>   
-  <sub><p style="line-height:15px"> Yunheng Li, ZhongYu Li, Quansheng Zeng, <b>Qibin Hou#</b>, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">International Conference on Machine Learning (ICML), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2406.00670">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Cascade-CLIP">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection</h4>   
-  <sub><p style="line-height:15px"> Jiabao Wang*, Yuming Chen*, Zhaohui Zheng, Xiang Li, Ming-Ming Cheng, <b>Qibin Hou#</b></p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2306.11369.pdf">[Arxiv]</a> <a href="https://github.com/jbwang1997/CrossKD">[Code]</a></p>   
   </sub>
 </blockquote>
 
