@@ -106,7 +106,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Yolo-ms: rethinking multi-scale representation learning for real-time object detection</h4>   
   <sub><p style="line-height:15px"> Yuming Chen, Xinbin Yuan, Ruiqi Wu, Jiabao Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</p>   
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 47(6), 4240-4252, 2025</p>   
   <iframe 
 src="https://ghbtns.com/github-btn.html?user=FishAndWasabi&repo=YOLO-MS&type=star&count=true&size=small" frameborder="0"
 scrolling="0"
@@ -223,10 +223,17 @@ CoordAttention">[Code]</a></p>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Strip Pooling: Rethinking Spatial Pooling for Scene Parsing</h4>   
-  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Li Zhang, Ming-Ming Cheng, Jiashi Feng</p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2003.13328.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SPNet">[Code]</a></p>   
+  <h4>DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation</h4>   
+  <sub><p style="line-height:15px"> Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, <b>Qibin Hou</b></p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
+    <iframe 
+src="https://ghbtns.com/github-btn.html?user=VCIP-RGBD&repo=DFormer&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2504.04701?">[Arxiv]</a> <a href="https://github.com/VCIP-RGBD/DFormer">[Code]</a></p>   
   </sub>
 </blockquote>
 
