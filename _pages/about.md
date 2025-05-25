@@ -83,6 +83,11 @@ I am always looking for self-motivated Ph.D./master students working with me on 
  
 <span class='anchor' id='-pub'></span>
 
+#### Alumni
+
++ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (2021-2025)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (2022-2025)
+
 ## Preprint
 
 #### "*" means authors contributed equally and "#" means corresponding author.
@@ -242,12 +247,6 @@ title="GitHub">
 
 <span class='anchor' id='-services'></span>
 
-## Alumni
-
-+ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (2021-2025)
-+ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (2022-2025)
-
-<span class='anchor' id='-alumni'></span>
 
 ## Academic Services
 
