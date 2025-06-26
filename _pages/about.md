@@ -38,14 +38,14 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
-+ Among the list of Highly Cited Chinese Researchers of 2024
++ Four papers accepted by ICCV'25
++ Among the list of Highly Cited Chinese Researchers of 2024, 2023
 + Four papers accepted by CVPR'25
 + Two papers accepted by ICLR'25
 + Two papers accepted by TPAMI'2025
 + Will serve as an area chair for ICCV'2025
 + Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
-+ Among the list of Highly Cited Chinese Researchers of 2023
 + Six papers accepted by CVPR'24 and ECCV'24
 + Top 2% of Scientists on Stanford List for multiple times
 
