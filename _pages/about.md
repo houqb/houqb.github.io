@@ -156,7 +156,7 @@ title="GitHub">
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction</h4>   
-  <sub><p style="line-height:15px">Xuying Zhang*, Yutong Liu*, Yangguang Li, Renrui Zhang, Yufei Liu, Kai Wang, Wanli Ouyang, Zhiwei Xiong, Peng Gao, <b>Qibin Hou</b>, Ming-Ming Cheng</p> 
+  <sub><p style="line-height:15px">Xuying Zhang*, Yutong Liu*, Yangguang Li, Renrui Zhang, Yufei Liu, Kai Wang, Wanli Ouyang, Zhiwei Xiong, Peng Gao, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2025</p>   
     <iframe 
 src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=TAR3D&type=star&count=true&size=small" frameborder="0"
@@ -179,7 +179,7 @@ title="GitHub">
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation</h4>   
-  <sub><p style="line-height:15px"> Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, <b>Qibin Hou</b></p> 
+  <sub><p style="line-height:15px"> Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, <b>Qibin Hou</b>#</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
     <iframe 
 src="https://ghbtns.com/github-btn.html?user=VCIP-RGBD&repo=DFormer&type=star&count=true&size=small" frameborder="0"
