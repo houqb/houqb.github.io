@@ -161,6 +161,36 @@ title="GitHub">
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction</h4>   
+  <sub><p style="line-height:15px">Xuying Zhang*, Yutong Liu*, Yangguang Li, Renrui Zhang, Yufei Liu, Kai Wang, Wanli Ouyang, Zhiwei Xiong, Peng Gao, <b>Qibin Hou</b>, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2025</p>   
+    <iframe 
+src="https://ghbtns.com/github-btn.html?user=HVision-NKU&repo=TAR3D&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.16919">[Arxiv]</a> <a href="https://github.com/HVision-NKU/TAR3D?tab=readme-ov-file">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation</h4>   
+  <sub><p style="line-height:15px"> Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, <b>Qibin Hou</b></p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
+    <iframe 
+src="https://ghbtns.com/github-btn.html?user=VCIP-RGBD&repo=DFormer&type=star&count=true&size=small" frameborder="0"
+scrolling="0"
+width="170"
+height="20"
+title="GitHub">
+</iframe>
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2504.04701?">[Arxiv]</a> <a href="https://github.com/VCIP-RGBD/DFormer">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</h4>   
   <sub><p style="line-height:15px"> Yupeng Zhou, Daquan Zhou#, Ming-Ming Cheng, Jiashi Feng, <b>Qibin Hou</b># </p>
   <p style="line-height:15px">Neural Information Processing Systems (NeurIPS), 2024</p>   
@@ -229,20 +259,7 @@ CoordAttention">[Code]</a></p>
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation</h4>   
-  <sub><p style="line-height:15px"> Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, <b>Qibin Hou</b></p> 
-  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
-    <iframe 
-src="https://ghbtns.com/github-btn.html?user=VCIP-RGBD&repo=DFormer&type=star&count=true&size=small" frameborder="0"
-scrolling="0"
-width="170"
-height="20"
-title="GitHub">
-</iframe>
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2504.04701?">[Arxiv]</a> <a href="https://github.com/VCIP-RGBD/DFormer">[Code]</a></p>   
-  </sub>
-</blockquote>
+
 
 
 <span class='anchor' id='-services'></span>
