@@ -172,7 +172,7 @@ title="GitHub">
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction</h4>   
   <sub><p style="line-height:15px">Yunheng Li, Yuxuan Li, Quansheng Zeng, Wenhai Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">Arxiv, 2024</p>   
+  <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2025</p>    
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.06244">[Arxiv]</a> <a href="https://github.com/HVision-NKU/DenseVLM" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
