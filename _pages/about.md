@@ -100,13 +100,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction</h4>   
-  <sub><p style="line-height:15px">Yunheng Li, Yuxuan Li, Quansheng Zeng, Wenhai Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">Arxiv, 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.06244">[Arxiv]</a> <a href="https://github.com/HVision-NKU/DenseVLM" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
+
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
@@ -172,6 +166,14 @@ height="20"
 title="GitHub">
 </iframe>
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.16919">[Arxiv]</a> <a href="https://github.com/HVision-NKU/TAR3D?tab=readme-ov-file">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Unbiased Region-Language Alignment for Open-Vocabulary Dense Prediction</h4>   
+  <sub><p style="line-height:15px">Yunheng Li, Yuxuan Li, Quansheng Zeng, Wenhai Wang, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">Arxiv, 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2412.06244">[Arxiv]</a> <a href="https://github.com/HVision-NKU/DenseVLM" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
