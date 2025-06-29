@@ -63,6 +63,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + [Boyuan Sun](https://scholar.google.com/citations?user=GvTWUAEAAAAJ&hl=en) (Multi-modal understanding, co-supervise with Prof. Xiuli Shao, 2023-)
 + [Yusong Hu](https://scholar.google.com/citations?user=A8Go6k4AAAAJ&hl=en&oi=ao) (Multi-modal understanding, 2023-)
 + [Yunheng Li](https://scholar.google.com/citations?user=pqloKgIAAAAJ&hl=en&oi=ao) (Multi-modal understanding, co-supervise with Ming-Ming Cheng, 2023-)
++ Shichen Zhang (Scene understanding, co-supervise with Ming-Ming Cheng, 2023-)
 + [Yuming Chen](https://scholar.google.com/citations?hl=en&user=EweNbRAAAAAJ) (Visual perception, co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (Image and video generation, 2024-)
 + Jiao-Long Cao (Multi-modal vision foundation model, 2024-)
