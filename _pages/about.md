@@ -38,7 +38,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
-+ Serve as a member of the Senior Program Committee of AAAI
++ Serve as a member of the Senior Program Committee of AAAI'2026
 + Four papers accepted by ICCV'25
 + Among the list of Highly Cited Chinese Researchers of 2024, 2023
 + Four papers accepted by CVPR'25
@@ -87,8 +87,8 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 #### Alumni
 
-+ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (2021-2025)
-+ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (2022-2025)
++ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (Post-doc, PolyU HK, 2021-2025)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Baidu, 2022-2025)
 
 ## Preprint
 
@@ -99,6 +99,14 @@ I am always looking for self-motivated Ph.D./master students working with me on 
   <sub><p style="line-height:15px">Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, <b>Qibin Hou</b>#, Ming-Ming Cheng#</p> 
   <p style="line-height:15px">Arxiv, 2025</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2501.03775?">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Strip-R-CNN" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/17342348259">[Zhihu]</a> <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=strip-r-cnn-large-strip-convolution-for">[PaperWithCode]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning</h4>   
+  <sub><p style="line-height:15px">Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, <b>Qibin Hou</b>#, Jinwei Chen, Peng-Tao Jiang, Bo Li#</p> 
+  <p style="line-height:15px">Arxiv, 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2505.12370?">[Arxiv]</a> <a href="https://github.com/YXB-NKU/SE-GUI" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
@@ -284,4 +292,5 @@ CoordAttention">[Code]</a></p>
 + Second prize in nature science, CAAI, 2020.
 
 <a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=420&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
+
 
