@@ -38,6 +38,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Will serve as an area chair for CVPR'2026
 + Serve as a member of the Senior Program Committee of AAAI'2026
 + Four papers accepted by ICCV'25
 + Among the list of Highly Cited Chinese Researchers of 2024, 2023
@@ -48,7 +49,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
 + Six papers accepted by CVPR'24 and ECCV'24
-+ Top 2% of Scientists on Stanford List for multiple times
++ Top 2% of Scientists on Stanford List since 2022
 
 <span class='anchor' id='-group'></span>
 
@@ -87,8 +88,8 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 #### Alumni
 
-+ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (Post-doc, PolyU HK, 2021-2025)
-+ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Baidu, 2022-2025)
++ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (PhD 2021-2025, Now Post-doc at PolyU HK)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Master 2022-2025, Now Baidu)
 
 ## Preprint
 
@@ -292,5 +293,6 @@ CoordAttention">[Code]</a></p>
 + Second prize in nature science, CAAI, 2020.
 
 <a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=420&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
+
 
 
