@@ -76,13 +76,14 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + [Yuhao Wan](https://scholar.google.com/citations?hl=en&user=kKyVqq0AAAAJ) (3D world model, co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + Guohong Mu (Visual perception, co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + Shihao Zhu (Image generation, 2025-)
++ Yuan Wang (Low-level vision, 2025-)
 
 #### Undergraduate Students
 
-+ [Ziheng Ouyang](https://scholar.google.com/citations?user=Qu-j8d8AAAAJ&hl=en&oi=ao) (Image generation, sophomore)
-+ Jiadong Hou (Vision-language-action, sophomore)
-+ Modi Jin (Visual perception, sophomore)
-+ Hangyi Kuang (Multi-modal understanding, freshman)
++ [Ziheng Ouyang](https://scholar.google.com/citations?user=Qu-j8d8AAAAJ&hl=en&oi=ao) (Image generation)
++ Jiadong Hou (Vision-language-action)
++ Modi Jin (Visual perception)
++ Hangyi Kuang (Multi-modal understanding)
  
 <span class='anchor' id='-pub'></span>
 
@@ -293,6 +294,7 @@ CoordAttention">[Code]</a></p>
 + Second prize in nature science, CAAI, 2020.
 
 <a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=420&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
+
 
 
 
