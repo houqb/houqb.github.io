@@ -38,18 +38,15 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Five papers accepted by ICLR'25 and NeurIPS'25
 + One paper about SR accepted by Proceedings of the IEEE
-+ Will serve as an area chair for CVPR'2026
++ Serve as an area chair for CVPR'2026
 + Serve as a member of the Senior Program Committee of AAAI'2026
-+ Four papers accepted by ICCV'25
++ Eight papers accepted by CVPR'25 and ICCV'25
 + Among the list of Highly Cited Chinese Researchers of 2024, 2023
-+ Four papers accepted by CVPR'25
-+ Two papers accepted by ICLR'25
 + Two papers accepted by TPAMI'2025
 + Serve as an area chair for ICCV'2025
-+ Three papers accepted by NeurIPS'2024
 + Five papers accepted by TPAMI'2024
-+ Six papers accepted by CVPR'24 and ECCV'24
 + Top 2% of Scientists on Stanford List since 2022
 
 <span class='anchor' id='-group'></span>
@@ -295,6 +292,7 @@ CoordAttention">[Code]</a></p>
 + Second prize in nature science, CAAI, 2020.
 
 <a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=420&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
+
 
 
 
