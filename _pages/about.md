@@ -102,15 +102,6 @@ I am always looking for self-motivated Ph.D./master students working with me on 
   </sub>
 </blockquote>
 
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning</h4>   
-  <sub><p style="line-height:15px">Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, <b>Qibin Hou</b>#, Jinwei Chen, Peng-Tao Jiang, Bo Li#</p> 
-  <p style="line-height:15px">Arxiv, 2025</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2505.12370?">[Arxiv]</a> <a href="https://github.com/YXB-NKU/SE-GUI" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-
 
 ## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
@@ -163,6 +154,14 @@ title="GitHub">
 </blockquote>
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning</h4>   
+  <sub><p style="line-height:15px">Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, <b>Qibin Hou</b>#, Jinwei Chen, Peng-Tao Jiang, Bo Li#</p> 
+  <p style="line-height:15px">Neural Information Processing Systems (NeurIPS), 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2505.12370?">[Arxiv]</a> <a href="https://github.com/YXB-NKU/SE-GUI" class="redlink">[Code]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction</h4>   
@@ -292,6 +291,7 @@ CoordAttention">[Code]</a></p>
 + Second prize in nature science, CAAI, 2020.
 
 <a href='https://clustrmaps.com/site/1c0bz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=009bd2&w=420&t=tt&d=eVoxtW4274y6Om72Ln4oIME8OFSCPGSyUuFQ75UemiI&co=eff5f8&ct=0b0101'/></a>
+
 
 
 
