@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 ## Preprint
 
-#### "*" means authors contributed equally and "#" means corresponding author.
+<h2>Preprint</h2>
+
+<h4>"*" means authors contributed equally and "#" means corresponding author.</h4>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
@@ -17,8 +23,7 @@ author_profile: true
   </sub>
 </blockquote>
 
-
-## Selected Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+<h2>Selected Journal Publications</h2>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Yolo-ms: rethinking multi-scale representation learning for real-time object detection</h4>   
