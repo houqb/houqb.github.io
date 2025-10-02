@@ -18,6 +18,10 @@ url                      : https://houqb.github.io/hqb/ # The base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "houqb/hqb"
 
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/image/icon.png"
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
