@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to  this homepage"
+title: "Qibin's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
