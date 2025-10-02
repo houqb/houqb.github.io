@@ -234,10 +234,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _awards
   - scope:
       path: ""
-      type: posts
+      type: awards
     values:
       layout: single
       author_profile: true
