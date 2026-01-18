@@ -23,6 +23,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ One papers accepted by TPAMI'2026
 + Five papers accepted by ICLR'25 and NeurIPS'25
 + One paper about SR accepted by Proceedings of the IEEE
 + Serve as an area chair for CVPR'2026
@@ -31,5 +32,4 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 + Among the list of Highly Cited Chinese Researchers of 2024, 2023
 + Two papers accepted by TPAMI'2025
 + Serve as an area chair for ICCV'2025
-+ Five papers accepted by TPAMI'2024
 + Top 2% of Scientists on Stanford List since 2022
