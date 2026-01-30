@@ -3,10 +3,10 @@
 #### "*" means authors contributed equally and "#" means corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
-  <sub><p style="line-height:15px">Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, <b>Qibin Hou</b>#, Ming-Ming Cheng#</p> 
+  <h4>GeoWorld: Unlocking the Potential of Geometry Models to Facilitate High-Fidelity 3D Scene Generation</h4>   
+  <sub><p style="line-height:15px"> Yuhao Wan, Lijuan Liu, Jingzhi Zhou, Zihan Zhou, Xuying Zhang, Dongbo Zhang, Shaohui Jiao, <b>Qibin Hou</b>#, Ming-Ming Cheng</p> 
   <p style="line-height:15px">Arxiv, 2025</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2501.03775?">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Strip-R-CNN" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/17342348259">[Zhihu]</a> <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=strip-r-cnn-large-strip-convolution-for">[PaperWithCode]</a></p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2511.23191">[Arxiv]</a> <a href="https://peaes.github.io/GeoWorld/" class="redlink">[Code]</a></p>   
   </sub>
 </blockquote>
 
@@ -62,6 +62,14 @@ title="GitHub">
 </blockquote>
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
+  <sub><p style="line-height:15px">Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, <b>Qibin Hou</b>#, Ming-Ming Cheng#</p> 
+  <p style="line-height:15px">AAAI Conference on Artificial Intelligence, 2026</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2501.03775?">[Arxiv]</a> <a href="https://github.com/HVision-NKU/Strip-R-CNN" class="redlink">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/17342348259">[Zhihu]</a> <a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=strip-r-cnn-large-strip-convolution-for">[PaperWithCode]</a></p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning</h4>   
