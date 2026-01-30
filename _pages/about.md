@@ -23,13 +23,14 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Four papers accepted by AAAI'2026 and ICLR'26
 + One papers accepted by TPAMI'2026
 + Five papers accepted by ICLR'25 and NeurIPS'25
 + One paper about SR accepted by Proceedings of the IEEE
 + Serve as an area chair for CVPR'2026
 + Serve as a member of the Senior Program Committee of AAAI'2026
 + Eight papers accepted by CVPR'25 and ICCV'25
-+ Among the list of Highly Cited Chinese Researchers of 2024, 2023
++ Highly Cited Chinese Researchers since 2023
 + Two papers accepted by TPAMI'2025
 + Serve as an area chair for ICCV'2025
 + Top 2% of Scientists on Stanford List since 2022
