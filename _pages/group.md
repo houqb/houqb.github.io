@@ -24,7 +24,7 @@ author_profile: true
 + [Xinbin Yuan](https://scholar.google.com/citations?user=Be26Qu8AAAAJ&hl=en) (Multi-modal understanding, 2023-)
 + [Yuhao Wan](https://scholar.google.com/citations?hl=en&user=kKyVqq0AAAAJ) (3D world model, co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + Guohong Mu (Visual perception, co-supervise with Prof. Ming-Ming Cheng, 2024-)
-+ Shihao Zhu (Image generation, 2025-)
++ [Shihao Zhu](https://scholar.google.com/citations?user=yqhLIAMAAAAJ&hl=en&oi=sra) (Image generation, 2025-)
 + Yuan Wang (Low-level vision, 2025-)
 
 ### Undergraduate Students
