@@ -23,9 +23,9 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Two papers accepted by TPAMI'2026
 + Five papers accepted by CVPR'26
 + Four papers accepted by AAAI'2026 and ICLR'26
-+ One papers accepted by TPAMI'2026
 + Five papers accepted by ICLR'25 and NeurIPS'25
 + One paper about SR accepted by Proceedings of the IEEE
 + Serve as an area chair for CVPR'2026
