@@ -23,6 +23,7 @@ I am always looking for self-motivated Ph.D./master students working with me on 
 
 ## News
 
++ Four papers accepted by ICML'26
 + Two papers accepted by TPAMI'2026
 + Five papers accepted by CVPR'26
 + Four papers accepted by AAAI'2026 and ICLR'26
