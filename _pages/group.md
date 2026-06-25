@@ -10,18 +10,21 @@ author_profile: true
 + [Boyuan Sun](https://scholar.google.com/citations?user=GvTWUAEAAAAJ&hl=en) (Multi-modal understanding, co-supervise with Prof. Xiuli Shao, 2023-)
 + [Yusong Hu](https://scholar.google.com/citations?user=A8Go6k4AAAAJ&hl=en&oi=ao) (Multi-modal understanding, 2023-)
 + [Yunheng Li](https://scholar.google.com/citations?user=pqloKgIAAAAJ&hl=en&oi=ao) (Multi-modal understanding, co-supervise with Ming-Ming Cheng, 2023-)
-+ Shichen Zhang (Scene understanding, co-supervise with Ming-Ming Cheng, 2023-)
++ [Shichen Zhang](https://scholar.google.com/citations?hl=en&user=3ejE-0IAAAAJ) (Scene understanding, co-supervise with Ming-Ming Cheng, 2023-)
 + [Yuming Chen](https://scholar.google.com/citations?hl=en&user=EweNbRAAAAAJ) (Visual perception, co-supervise with Prof. Ming-Ming Cheng, 2024-)
 + [Yupeng Zhou](https://scholar.google.com/citations?user=zQTdfUIAAAAJ&hl=en&oi=ao) (Image and video generation, 2024-)
 + Jiao-Long Cao (Multi-modal vision foundation model, 2024-)
-+ Jiao-Long Cao (Multi-modal vision foundation model, 2024-)
++ Junxian Chen (Visual perception, 2025-)
++ [Chenxu Wang](https://scholar.google.com/citations?hl=en&user=556MAEoAAAAJ) (Visual perception, 2025-)
++ [Yuhao Wan](https://scholar.google.com/citations?hl=en&user=kKyVqq0AAAAJ) (3D world model, 2026-)
++ Guohong Mu (Visual perception, 2026-)
++ [Zhipeng Qian](https://scholar.google.com/citations?hl=en&user=YiNN3dsAAAAJ) (Search agents, 2026-)
++ [Fan Li](https://scholar.google.com/citations?hl=en&user=DRnHw6sAAAAJ) (AIGC, 2026-)
 
 ### Master Students
 
-+ [Yuhao Wan](https://scholar.google.com/citations?hl=en&user=kKyVqq0AAAAJ) (3D world model, co-supervise with Prof. Ming-Ming Cheng, 2024-)
-+ Guohong Mu (Visual perception, co-supervise with Prof. Ming-Ming Cheng, 2024-)
-+ [Shihao Zhu](https://scholar.google.com/citations?user=yqhLIAMAAAAJ&hl=en&oi=sra) (Image generation, 2025-)
-+ Yuan Wang (Low-level vision, 2025-)
++ [Shihao Zhu](https://scholar.google.com/citations?user=yqhLIAMAAAAJ&hl=en&oi=sra) (AIGC, 2025-)
++ Yuan Wang (AIGC, 2025-)
 
 ### Undergraduate Students
 
@@ -34,9 +37,9 @@ author_profile: true
 
 ### Alumni
 
-+ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (PhD 2021-2025, Post-doc at PolyU HK)
-+ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Master 2022-2025, Baidu)
-+ [Jiabao Wang](https://scholar.google.com/citations?user=S9ErhhEAAAAJ&hl=en&oi=ao) (PhD 2022-2026, Didi)
-+ Hao Shao (PhD 2022-2026, Alibaba)
-+ [Xuying Zhang](https://zhangxuying1004.github.io/) (PhD 2022-2026, JD)
-+ [Xinbin Yuan](https://scholar.google.com/citations?user=Be26Qu8AAAAJ&hl=en) (Master 2023-2026, JD)
++ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (PhD, 2021-2025, Post-doc at PolyU HK)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Master, 2022-2025, Baidu)
++ [Jiabao Wang](https://scholar.google.com/citations?user=S9ErhhEAAAAJ&hl=en&oi=ao) (PhD, 2022-2026, Didi)
++ Hao Shao (PhD, 2022-2026, Alibaba)
++ [Xuying Zhang](https://zhangxuying1004.github.io/) (PhD, 2022-2026, JD Talent Plan)
++ [Xinbin Yuan](https://scholar.google.com/citations?user=Be26Qu8AAAAJ&hl=en) (Master, 2023-2026, JD Talent Plan)
