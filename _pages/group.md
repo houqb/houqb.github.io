@@ -24,22 +24,21 @@ author_profile: true
 ### Master Students
 
 + [Shihao Zhu](https://scholar.google.com/citations?user=yqhLIAMAAAAJ&hl=en&oi=sra) (AIGC, 2025-)
-+ Yuan Wang (AIGC, 2025-)
++ [Yuan Wang](https://scholar.google.com/citations?user=nI02yDsAAAAJ&hl=en&oi=sra) (AIGC, 2025-)
 
 ### Undergraduate Students
 
 + [Ziheng Ouyang](https://scholar.google.com/citations?user=Qu-j8d8AAAAJ&hl=en&oi=ao) (Image generation)
 + Jiadong Hou (Vision-language-action)
 + Modi Jin (Visual perception)
-+ Hangyi Kuang (Multi-modal understanding)
  
 <span class='anchor' id='-pub'></span>
 
 ### Alumni
 
-+ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (PhD, 2021-2025, Post-doc at PolyU HK)
-+ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Master, 2022-2025, Baidu)
-+ [Jiabao Wang](https://scholar.google.com/citations?user=S9ErhhEAAAAJ&hl=en&oi=ao) (PhD, 2022-2026, Didi)
++ [Zhaohui Zheng](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en) (PhD, 2021-2025, co-supervised with Ming-Ming Cheng, Post-doc at PolyU HK)
++ [Yuqi Yang](https://scholar.google.com/citations?user=a4a9nswAAAAJ&hl=en&oi=ao) (Master, 2022-2025, co-supervised with Ming-Ming Cheng, Baidu)
++ [Jiabao Wang](https://scholar.google.com/citations?user=S9ErhhEAAAAJ&hl=en&oi=ao) (PhD, 2022-2026, co-supervised with Ming-Ming Cheng, Didi)
 + Hao Shao (PhD, 2022-2026, Alibaba)
-+ [Xuying Zhang](https://zhangxuying1004.github.io/) (PhD, 2022-2026, JD Talent Plan)
-+ [Xinbin Yuan](https://scholar.google.com/citations?user=Be26Qu8AAAAJ&hl=en) (Master, 2023-2026, JD Talent Plan)
++ [Xuying Zhang](https://zhangxuying1004.github.io/) (PhD, 2022-2026, co-supervised with Ming-Ming Cheng, TGT@JD)
++ [Xinbin Yuan](https://scholar.google.com/citations?user=Be26Qu8AAAAJ&hl=en) (Master, 2023-2026, TGT@JD)
